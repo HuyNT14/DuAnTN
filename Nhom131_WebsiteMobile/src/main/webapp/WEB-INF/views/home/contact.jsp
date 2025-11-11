@@ -13,7 +13,7 @@
                     <hr>
                     <p class="phone_contact"> <i style="font-size: 20px;color: rgb(168, 105, 108);" class="fas fa-phone"></i>&nbsp;&nbsp; Điện thoại: <a style='color:#666'>0935542813</a>
                     <hr>
-                    <p class="email_contact"><i style="font-size: 20px;color:goldenrod" class="fas fa-envelope-open-text"></i>&nbsp;&nbsp; Email: <a style='color:#666'>nguyencanhvinh@gmail.com</a></p>
+                    <p class="email_contact"><i style="font-size: 20px;color:goldenrod" class="fas fa-envelope-open-text"></i>&nbsp;&nbsp; Email: <a style='color:#666'>huynt0514@gmail.com</a></p>
                     <hr>
                     <br>
 
@@ -22,7 +22,7 @@
                     <hr>
                     <p class="add_contact"> <i style="font-size: 20px;color: rgb(168, 105, 108);" class="fas fa-phone"></i>&nbsp;&nbsp; Điện thoại: <a style='color:#666'>024-73073737</a>
                     <hr>
-                    <p class="email_contact"><i style="font-size: 20px;color:goldenrod" class="fas fa-envelope-open-text"></i>&nbsp;&nbsp; Email: <a style='color:#666'>nguyencanhvinh@gmail.com</a></p>
+                    <p class="email_contact"><i style="font-size: 20px;color:goldenrod" class="fas fa-envelope-open-text"></i>&nbsp;&nbsp; Email: <a style='color:#666'>huynt0514@gmail.com</a></p>
                     <hr>
                 </div>
                 <div class="col-sm-6">
@@ -32,7 +32,7 @@
                     <hr>
                     <p class="phone_contact"> <i style="font-size: 20px;color: rgb(168, 105, 108);" class="fas fa-phone"></i>&nbsp;&nbsp; Điện thoại : <a style='color:#666'>028-62563737</a> – Ext: 621 | Fax : <a style='color:#666'>+84-6.2906480</a></p>
                     <hr>
-                    <p class="email_contact"><i style="font-size: 20px;color:goldenrod" class="fas fa-envelope-open-text"></i>&nbsp;&nbsp; Email: <a style='color:#666'>nguyencanhvinh@gmail.com</a></p>
+                    <p class="email_contact"><i style="font-size: 20px;color:goldenrod" class="fas fa-envelope-open-text"></i>&nbsp;&nbsp; Email: <a style='color:#666'>huynt0514@gmail.com</a></p>
                     <hr>
 
                 </div>
